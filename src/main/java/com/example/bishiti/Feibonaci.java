@@ -14,6 +14,7 @@ public class Feibonaci {
     //递归方法
     public static int feibo1(int n){
         if (n == 0) {
+
             return 0;
         }
         if (n == 1) {
